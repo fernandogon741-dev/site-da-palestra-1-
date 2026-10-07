@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    background-color: #000000;
+    color: white;
+    font-family: inherit;
+    font-size: large;
+}
+
+header{
+    background-color: #000000;
+    color: #ff6a00;
+    text-align: center;
+    padding: 8px;
+
+}
+
+header h2{
+    margin: 0;
+}
+
+main{
+    width: 450px;
+margin: 35px auto;
+}
+
+.evento{
+    background-color: #000000;
+    padding: 20px;
+}
+
+.Informações{
+    strong{
+        color: #ff6a00;
+    }
+    padding: 20px;
+}
+
+.Informações h2{
+    color: #ff6a00;
+    padding: 20px;
+}
+
+.evento h2{
+    color: #ff6a00;
+    padding: 20px;
+}
+
+.Programação h2{
+    color: #ff6a00;
+    padding: 20px;
+}
+
+.Participação h2{
+    color: #ff6a00;
+    padding: 20px;
+}
+
+header{
+    margin-bottom: 10;
+    color: #ff6a00;
+}
+main{
+    width: 500px;
+    margin: 20px auto;
+    border: 3px solid #ff6a00;
+    border-radius: 35px;
+}
+
+evento.jpeg{
+    width: 330px;
+    height: 300px;
+    border: 5px;
+    border-radius: 100%;
+}
+
+img {
+    border-radius: 40px;
+}
+
+.botao{
+    display: block;
+    background-color: #ff6a00;
+    color: #000000;
+    padding: 8px;
+    margin: 0 auto;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+
+}
+.botao:hover{
+    background-color: #240f01;
+}
+
+footer{
+    text-align: center;
+    color: #ff6a00;
+    padding: 5px;
+    font-size: 13px;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-color:#ff6a00;
+}
+
+.Programação {
+    padding: 15px;
+}
+
+.Participação {
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
